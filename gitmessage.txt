@@ -1,0 +1,12 @@
+<type>:<subject>
+
+<body>
+
+(<footer>)
+
+# types:
+#     feat (new feature)
+#     fix (bugs or smth)
+#     test (new or fixed)
+#     refactor
+#     docs (only)
